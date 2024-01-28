@@ -42,5 +42,7 @@ inline double random_double(double min, double max) {
 #include "ray.h"
 #include "vec3.h"
 #include "color.h"
+#include "hittable.h"
+#include "material.h"
 
 #endif
